@@ -1,6 +1,6 @@
 # E-Commerce Platform
 
-![Tired](https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg)
+![Me Right Now](https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif)
 
 ## Overview
 
