@@ -4,11 +4,11 @@
 
 ## Overview
 
-This repository contains the codebase for a comprehensive e-commerce platform. Developed through extensive research and practical application, this project integrates modern web development techniques and best practices to deliver a robust, scalable, and user-friendly online shopping experience.
+This repository contains the codebase for a comprehensive e-commerce platform. This project integrates modern web development techniques and best practices to deliver a robust, scalable, and user-friendly online shopping experience.
 
 ## Project Journey
 
-Developing this e-commerce platform is an enriching journey, involving a deep dive into various aspects of web development. Through dedicated learning and the guidance of numerous YouTube tutorials, I'm gaining significant insights and skills in building and deploying full-stack web applications.
+Developing this e-commerce platform through dedicated learning and the guidance of numerous YouTube tutorials, I'm gaining significant insights and skills in building and deploying full-stack web applications.
 
 ## Key Features (Plan)
 
