@@ -36,4 +36,3 @@ function Navbar() {
 export default Navbar
 
 
-/*22:08MIN*/
